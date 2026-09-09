@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Everything Converter",
+  "short_name": "Converter",
+  "description": "Convert units, resize images, compress photos, create passport photos, and calculate instantly in your browser.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

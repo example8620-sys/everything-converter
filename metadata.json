@@ -1,0 +1,6 @@
+{
+  "name": "Everything Converter",
+  "description": "Convert Everything. Simply. Quickly. Accurately. A comprehensive suite of 100+ free online tools for units, images, PDFs, text, numbers, calculations, and developer utilities with 100% browser-side privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

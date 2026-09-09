@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://everythingconverter.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <!-- Image Tools -->
+  <url><loc>https://everythingconverter.com/image-tools/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/passport-photo-maker/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/photo-size-reducer/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/image-resizer/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/image-compressor/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/image-format-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/jpg-to-png/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/png-to-jpg/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/webp-to-jpg/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/jpg-to-webp/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/png-to-webp/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/photo-cropper/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/aspect-ratio-calculator/</loc><priority>0.8</priority></url>
+
+  <!-- Unit Converters -->
+  <url><loc>https://everythingconverter.com/unit-converters/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/length-converter/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/weight-converter/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/temperature-converter/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/area-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/volume-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/speed-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/pressure-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/energy-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/power-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/cooking-converter/</loc><priority>0.8</priority></url>
+
+  <!-- Digital / Data -->
+  <url><loc>https://everythingconverter.com/data-converter/</loc><priority>0.8</priority></url>
+
+  <!-- Time & Date -->
+  <url><loc>https://everythingconverter.com/time-date-tools/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/time-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/age-calculator/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/date-calculator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/unix-timestamp-converter/</loc><priority>0.8</priority></url>
+
+  <!-- Number & Programming -->
+  <url><loc>https://everythingconverter.com/number-tools/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/binary-converter/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/decimal-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/hex-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/octal-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/roman-numeral-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/number-to-words/</loc><priority>0.8</priority></url>
+
+  <!-- Text Tools -->
+  <url><loc>https://everythingconverter.com/text-tools/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/word-counter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/case-converter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/text-cleaner/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/find-and-replace/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/url-encoder-decoder/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/base64-encoder-decoder/</loc><priority>0.7</priority></url>
+
+  <!-- Developer Tools -->
+  <url><loc>https://everythingconverter.com/developer-tools/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/json-formatter/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/html-formatter/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/css-js-minifier/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/uuid-generator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/hash-generator/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/regex-tester/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/color-converter/</loc><priority>0.8</priority></url>
+
+  <!-- PDF Tools -->
+  <url><loc>https://everythingconverter.com/pdf-tools/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/image-to-pdf/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/pdf-info/</loc><priority>0.7</priority></url>
+
+  <!-- Calculators -->
+  <url><loc>https://everythingconverter.com/calculators/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/percentage-calculator/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/discount-calculator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/gst-calculator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/tip-calculator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/loan-emi-calculator/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/simple-compound-interest/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/bmi-calculator/</loc><priority>0.9</priority></url>
+  <url><loc>https://everythingconverter.com/bmr-calorie-calculator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/average-calculator/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/ratio-proportion-calculator/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/gcd-lcm-calculator/</loc><priority>0.7</priority></url>
+  <url><loc>https://everythingconverter.com/fraction-calculator/</loc><priority>0.8</priority></url>
+  <url><loc>https://everythingconverter.com/scientific-calculator/</loc><priority>0.8</priority></url>
+
+  <!-- Content & Legal Pages -->
+  <url><loc>https://everythingconverter.com/about/</loc><priority>0.5</priority></url>
+  <url><loc>https://everythingconverter.com/contact/</loc><priority>0.5</priority></url>
+  <url><loc>https://everythingconverter.com/privacy-policy/</loc><priority>0.5</priority></url>
+  <url><loc>https://everythingconverter.com/terms/</loc><priority>0.5</priority></url>
+  <url><loc>https://everythingconverter.com/disclaimer/</loc><priority>0.5</priority></url>
+  <url><loc>https://everythingconverter.com/cookie-policy/</loc><priority>0.5</priority></url>
+</urlset>
